@@ -1,5 +1,5 @@
 # Labyrinthe
-OOP Ansatz für die Einführung der Tiefensuch 
+OOP Ansatz für die Einführung der Tiefensuche 
 
 ## Umsetzung
 Die Idee zum Labyrinth bauen stammt von: 
